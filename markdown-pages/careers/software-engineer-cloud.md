@@ -1,38 +1,31 @@
 ---
-title: Customer Success Engineer
+title: Software Engineer, Cloud
 location: San Mateo • Full Time
 ---
 
-# Customer Success Engineer
-
+# Software Engineer, Cloud 
 ## About PingCAP:
 
 PingCAP is the fastest-growing enterprise subscription company our investors have ever seen. And how are we growing so fast? By building TiDB, a globally scalable hybrid transactional and analytical database and one of the most popular open source database in the world (don’t take our word for it, check it out: https://github.com/pingcap/tidb), which enables companies to painlessly scale their business while keeping the underlying infrastructure simple. Our product has been trusted and verified by web-scale application leaders and adopted by over 1000 users across industries. We’re being led by the best in the space—our founders were the original creators of TiDB. We’re looking for talented and amazing team players who want to accelerate our growth, while doing some of the best work of their careers. Join us as we build the database for the future!
 
+## About The Role:
+
+We are looking for a Software Engineer, Cloud. You will have the opportunity to build and shape a powerful, industry-changing database product from the get-go. The Cloud Product Engineer will be someone that possesses unique engineering talent and is excited about the opportunity to join the PingCAP team, build our DB-as-a-service solution, and help transform the future of the database industry.
+
 ## What we are looking for:
 
-- Strong background in Linux/Unix administration;
-- Minimum 3 years of experience in designing, building, testing, and maintaining enterprise software applications;
-- Working understanding of code and script in Python, Shell, or Golang;
-- Experience with web server, distributed system, load balancing, and system monitoring;
-- Familiarity with the setup, configuration, and optimization of Nginx, LVS, Keepalived, Zabbix, MySQL, Redis, etc.;
-- Docker/Kubernetes knowledge a strong plus;
-- Experience in a public cloud environment, e.g. AWS, Azure, Google Cloud Platform;
-- Experience in automated operations using Puppet, Ansible, or SaltStack;
-- Bachelor’s degree in computer science strongly preferred;
-- Willingness to travel to customer sites.
+-  Build, orchestrate, and maintain an enterprise-grade DB-as-a-service offering of TiDB (https://github.com/pingcap/tidb)
+-  Help deliver the TiDB-as-a-service offering in our customer’s cloud environment, leveraging container orchestration tools like Kubernetes
+-  Deliver application level root-cause analysis
+-  Coordinate enhancement and feature requests with product and engineering teams.
 
 ## What you will get to do:
 
-- Orchestrate the deployment and upgrades of the TiDB cluster both in the client’s private environments and in the cloud;
-- Be responsible for product deployment, configuration management, system monitoring, and online diagnosis;
-- Provide on-premise service to enterprise customers;
-- Facilitate upgrades, patches, maintenance, and operations of the cluster;
-- Deliver quality service to customer's requests in a timely and professional manner;
-- Provide best practices guidance and support for architecting and building our customers specific solution;
-- Build required infrastructure to automate deployment pipeline;
-- Deliver application level root-cause analysis, suggesting code optimization,s and assist with integrations;
-- Coordinate enhancement and feature requests with product and engineering teams;
+- Extensive experience in Linux/Unix administration; 
+- Production level experience with containers and cloud-native/microservices architecture
+- Experience with container orchestration technology, e.g. Kubernetes, a major plus; 
+- Experience in using and automating operations using Puppet, Ansible, or SaltStack; 
+- Experience with web server, distributed system, load balancing, and system monitoring;
 
 ## What you will gain:
 
